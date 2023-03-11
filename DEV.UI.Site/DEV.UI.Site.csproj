@@ -10,10 +10,26 @@
     <None Remove="Models\" />
     <None Remove="Controllers\" />
     <None Remove="Extensions\" />
+    <None Remove="Areas\Produtos\" />
+    <None Remove="Areas\Produtos\Controllers\" />
+    <None Remove="Areas\Produtos\Views\" />
+    <None Remove="Areas\Produtos\Views\Cadastro\" />
+    <None Remove="Areas\Produtos\Data\" />
+    <None Remove="Areas\Produtos\Models\" />
+    <None Remove="Areas\Vendas\Data\" />
+    <None Remove="Areas\Vendas\Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Controllers\" />
     <Folder Include="Extensions\" />
+    <Folder Include="Areas\Produtos\" />
+    <Folder Include="Areas\Produtos\Controllers\" />
+    <Folder Include="Areas\Produtos\Views\" />
+    <Folder Include="Areas\Produtos\Views\Cadastro\" />
+    <Folder Include="Areas\Produtos\Data\" />
+    <Folder Include="Areas\Produtos\Models\" />
+    <Folder Include="Areas\Vendas\Data\" />
+    <Folder Include="Areas\Vendas\Models\" />
   </ItemGroup>
 </Project>
